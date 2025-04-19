@@ -1,4 +1,4 @@
-# Hardware-based-Safety-Device-
+# 🔒Hardware-based-Safety-Device-
 Designed and developed a compact, wearable safety device for women featuring an SOS button to trigger emergency alerts. Integrated real-time GPS tracking and GSM communication to instantly notify emergency contacts with the user’s live location.
 This project combines embedded systems and IoT to provide a reliable and discreet emergency alert system for women. With a portable design that can be integrated into keychains or pendants, the device ensures immediate response during distress without needing a smartphone.
 
