@@ -32,5 +32,14 @@ This project combines embedded systems and IoT to provide a reliable and discree
 
 ---
 
-## 💻 Folder Structure
+---
+
+## 💬 How It Works
+
+1. User presses the SOS button.
+2. The microcontroller reads GPS coordinates from the GPS module.
+3. The GSM module sends an SMS with the location to emergency contacts.
+4. The alert includes a clickable Google Maps link for real-time tracking.
+
+Example SMS:
 
