@@ -10,9 +10,9 @@ This project combines embedded systems and IoT to provide a reliable and discree
 |----------------------|---------------------------------------|
 | Microcontroller       | Arduino Uno / Nano                   |
 | GPS Module            | Neo-6M for live location tracking     |
-| GSM Module            | SIM800L for sending SMS alerts        |
+| GSM Module            | SIM900A for sending SMS alerts        |
 | Push Button           | Acts as the SOS trigger               |
-| Power Supply          | Rechargeable battery (3.7V Li-ion)    |
+| Power Supply          |   12V DC battery            |
 | Supporting Components | Resistors, capacitors, wiring, etc.  |
 
 ---
