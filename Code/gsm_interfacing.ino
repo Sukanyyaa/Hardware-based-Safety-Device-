@@ -1,7 +1,7 @@
 #include <SoftwareSerial.h>
 
 SoftwareSerial Gsm(7, 8); // TX, RX
-char phone_no[] = "+919302942991";  
+char phone_no[] = "+91XXXXXXXXXX";  
 int buttonPin = 4; 
 
 void setup() {
