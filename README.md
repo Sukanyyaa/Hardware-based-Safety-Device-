@@ -32,5 +32,5 @@ This project combines embedded systems and IoT to provide a reliable and discree
 3. The GSM module sends an SMS with the location to emergency contacts.
 4. The alert includes a clickable Google Maps link for real-time tracking.
 
-Example SMS:
+
 
