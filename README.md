@@ -19,7 +19,7 @@ This project combines embedded systems and IoT to provide a reliable and discree
 
 ## 🔌 Circuit Connections
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](circuit.jpg)
 
 
 ---
