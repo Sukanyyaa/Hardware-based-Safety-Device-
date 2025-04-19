@@ -1,15 +1,10 @@
 # Hardware-based-Safety-Device-
 Designed and developed a compact, wearable safety device for women featuring an SOS button to trigger emergency alerts. Integrated real-time GPS tracking and GSM communication to instantly notify emergency contacts with the user’s live location.
-
----
-
-## 🚀 Project Overview
-
 This project combines embedded systems and IoT to provide a reliable and discreet emergency alert system for women. With a portable design that can be integrated into keychains or pendants, the device ensures immediate response during distress without needing a smartphone.
 
 ---
 
-## 🛠️ Hardware Components
+## Hardware Components
 
 | Component            | Description                           |
 |----------------------|---------------------------------------|
@@ -19,18 +14,6 @@ This project combines embedded systems and IoT to provide a reliable and discree
 | Push Button           | Acts as the SOS trigger               |
 | Power Supply          | Rechargeable battery (3.7V Li-ion)    |
 | Supporting Components | Resistors, capacitors, wiring, etc.  |
-
----
-
-## 📟 Key Features
-
-- 🔘 **SOS Button Trigger** – Instantly activates the alert system
-- 📍 **Live GPS Tracking** – Sends real-time location with 95% accuracy
-- 📲 **SMS Alerts** – Sends Google Maps location link to emergency contacts
-- 🔋 **Low Power Design** – Compact, battery-operated for portability
-- 🧩 **Discreet Build** – Can be embedded into everyday accessories
-
----
 
 ---
 
