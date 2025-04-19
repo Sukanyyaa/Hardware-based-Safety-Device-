@@ -17,6 +17,10 @@ This project combines embedded systems and IoT to provide a reliable and discree
 
 ---
 
+## Circuit Connection
+
+---
+
 ## 💬 How It Works
 
 1. User presses the SOS button.
